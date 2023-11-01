@@ -1,2 +1,2 @@
-# define SECRET_SSID "ZenNetwk"
-# define SECRET_PASS "123Vaibhav"
+# define SECRET_SSID ""
+# define SECRET_PASS ""
